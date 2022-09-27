@@ -1,8 +1,8 @@
-# Copyright (c) 2022 Evgeny Vovk All rights reserved
+# Copyright (c) 2022 Evgeny Vovk All rights reserved.
 #
 # Created by: Evgeny Vovk
 # Created on: September 2022
-# ICS3U-Unit2-02.py File, learning input process and output in python
+# ICS3U-Unit2-02.py File, learning input process and output in python.
 
 import math
 from turtle import width
